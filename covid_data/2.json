@@ -1,0 +1,16 @@
+{
+    "country": "Philippines",
+    "date": "2024-09-03",
+    "confirmed_cases": {
+        "total": 14215,
+        "new": 615
+    },
+    "deaths": {
+        "total": 1892,
+        "new": 6
+    },
+    "recovered": {
+        "total": 9775,
+        "new": 506
+    }
+}

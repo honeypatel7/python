@@ -1,0 +1,7 @@
+{
+    "country": "Bangladesh",
+    "date": "2024-09-24",
+    "confirmed_cases": {"total": 99227,"new": 1895 },
+    "deaths": {"total": 4381, "new": 31 },
+    "recovered": {"total": 27913,"new": 94 }
+}

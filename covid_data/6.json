@@ -1,0 +1,16 @@
+{
+    "country": "Vietnam",
+    "date": "2024-09-18",
+    "confirmed_cases": {
+        "total": 96751,
+        "new": 179
+    },
+    "deaths": {
+        "total": 3760,
+        "new": 38
+    },
+    "recovered": {
+        "total": 36196,
+        "new": 80
+    }
+}

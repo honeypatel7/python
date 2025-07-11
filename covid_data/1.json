@@ -1,0 +1,7 @@
+{
+    "country": "Russia",
+    "date": "2024-09-18",
+    "confirmed_cases": {"total": 60876, "new": 1305 },
+    "deaths": {"total": 2958,"new": 59},
+    "recovered": {"total": 55324,"new": 1223 }
+}

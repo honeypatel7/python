@@ -1,0 +1,16 @@
+{
+    "country": "Indonesia",
+    "date": "2024-09-15",
+    "confirmed_cases": {
+        "total": 93006,
+        "new": 1091
+    },
+    "deaths": {
+        "total": 2730,
+        "new": 93
+    },
+    "recovered": {
+        "total": 57038,
+        "new": 587
+    }
+}

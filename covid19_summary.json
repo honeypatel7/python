@@ -1,0 +1,24 @@
+{
+    "COVID-19 Statistics by Country": [
+        "Russia: Confirmed: 60876, Deaths: 2958, Recovered: 55324, Active: 2594",
+        "Indonesia: Confirmed: 113355, Deaths: 5912, Recovered: 72947, Active: 34496",
+        "Philippines: Confirmed: 14215, Deaths: 1892, Recovered: 9775, Active: 2548",
+        "Japan: Confirmed: 137725, Deaths: 1755, Recovered: 35543, Active: 100427",
+        "Vietnam: Confirmed: 114336, Deaths: 7751, Recovered: 45183, Active: 61402",
+        "Bangladesh: Confirmed: 145468, Deaths: 5481, Recovered: 59398, Active: 80589"
+    ],
+    "Top 5 Countries with Highest Confirmed Cases": [
+        "Bangladesh: 145468",
+        "Japan: 137725",
+        "Vietnam: 114336",
+        "Indonesia: 113355",
+        "Russia: 60876"
+    ],
+    "Top 5 Countries with Lowest Confirmed Cases": [
+        "Japan: 137725",
+        "Vietnam: 114336",
+        "Indonesia: 113355",
+        "Russia: 60876",
+        "Philippines: 14215"
+    ]
+}

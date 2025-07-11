@@ -1,4 +1,4 @@
-This repository contains a series of Python-based mini-projects and exercises designed to build hands-on experience with key Python programming concepts.
+This repository contains lab assignments from the Python Programming Lab, covering a wide range of topics such as file handling, data processing, JSON, CSV, exception handling, PDF manipulation, logging, and image/audio processing using various Python libraries.
 
 Lab 1: Product Review from Text File
 Reads product reviews from a text file, performs basic analysis, and summarizes feedback.

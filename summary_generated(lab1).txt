@@ -1,0 +1,8 @@
+Summary Report
+Total reviews: 7
+Total valid reviews: 7
+Total invalid reviews: 0
+Top 3 products:
+Product ID: p1234567890 Average rating: 5.0
+Product ID: p1234567896 Average rating: 5.0
+Product ID: p1234567891 Average rating: 4.0
